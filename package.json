@@ -1,0 +1,20 @@
+{
+  "name": "fs-verto",
+  "version": "1.0.0",
+  "description": "Verto module for testing FreeSWITCH streaming",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery-json": "^2.6.0",
+    "verto": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
