@@ -9,10 +9,10 @@
 
             login: '1000@domain',
             passwd: 'pwd',
-            sockerUrl: 'wss://<host>:8082',
+            sockerUrl: 'wss://dans-linux.vappcenter.com:8082',
             ringFile: 'sounds/bell_ring2.wav',
             iceServers: [ {
-                url: 'stun:<server>'
+                url: 'stun:stun3.l.google.com:19302'
             }],
             deviceParms: {
                 useMic: 'any',
